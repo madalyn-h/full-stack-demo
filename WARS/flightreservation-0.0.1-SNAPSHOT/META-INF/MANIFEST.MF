@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.3.1
+Build-Jdk-Spec: 15
+Implementation-Title: flightreservation
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.harger.flightreservation.FlightreservationApplication
+Spring-Boot-Version: 2.4.2
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+
